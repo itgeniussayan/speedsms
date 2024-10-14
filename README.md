@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/itgeniussayan/speedsms"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
   TBomb v2.1b
   <br>
@@ -83,8 +83,8 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+https://github.com/itgeniussayan/speedsms.git
+cd speedsms
 ./TBomb.sh
 ```
 
@@ -97,8 +97,8 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+https://github.com/itgeniussayan/speedsms.git
+cd speedsms
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -109,8 +109,8 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+https://github.com/itgeniussayan/speedsms.git
+cd speedsms
 bash TBomb.sh
 ```
 
@@ -118,11 +118,6 @@ bash TBomb.sh
 
 To use the application, type in the following commands in MacOS terminal:
 
-##### Install via Homebrew
-
-```shell script
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-````
 
 ##### Install dependencies:
 
@@ -131,8 +126,8 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+https://github.com/itgeniussayan/speedsms.git
+cd speedsms
 bash TBomb.sh
 ```
 
@@ -146,20 +141,6 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 - Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
 - Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
 
-## Contributors
-
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[0n1cOn3](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-- Check **[Bishal](https://github.com/kbshal)** at https://github.com/kbshal
-
-
-### Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ### TODO:
 
@@ -227,7 +208,7 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 ##
 ### Support
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
+ 
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 

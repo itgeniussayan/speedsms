@@ -29,7 +29,7 @@ banner() {
     if ! [ -x "$(command -v figlet)" ]; then
         echo 'Introducing speedsms'
     else
-        figlet TBomb
+        figlet Speedsms
     fi
     if ! [ -x "$(command -v toilet)" ]; then
         echo -e "\e[4;34m This Bomber Was Created By \e[1;32mspeedsms \e[0m"
@@ -39,7 +39,7 @@ banner() {
     fi
     
     echo " "
-    echo "NOTE: Kindly move to the PIP version Of TBomb for more stability."
+    echo "NOTE: Kindly move to the PIP version Of speedsms for more stability."
     echo " "
 }
 
